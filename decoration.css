@@ -1,0 +1,40 @@
+#container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+a{
+    text-decoration: none;
+    font-size: 22px;
+    color: white;
+    background-color: crimson;
+    padding: 20px;
+    border-radius: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 800;
+    
+}
+a:hover{
+    background-color: white;
+    color: crimson;
+    border: 2px solid crimson;
+}
+#img1{
+   height: 60px;
+}
+#img2{
+    color: red;
+    font-family: 'Almendra', serif;
+font-family: 'Lugrasimo', cursive;
+    font-weight: 900;
+   
+}
+
+img{
+    border-radius: 30px;
+  
+}
+li{
+    font-size: 3vmin;
+}
